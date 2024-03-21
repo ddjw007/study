@@ -1,0 +1,5 @@
+/home/djw/study/C++/opencv/ov_3rd/OpenCV3-Computer-Vision-Application-Programming-Cookbook-Third-Edition-master/Chapter01/CMakeFiles/edit_cache.dir
+/home/djw/study/C++/opencv/ov_3rd/OpenCV3-Computer-Vision-Application-Programming-Cookbook-Third-Edition-master/Chapter01/CMakeFiles/rebuild_cache.dir
+/home/djw/study/C++/opencv/ov_3rd/OpenCV3-Computer-Vision-Application-Programming-Cookbook-Third-Edition-master/Chapter01/CMakeFiles/mat.dir
+/home/djw/study/C++/opencv/ov_3rd/OpenCV3-Computer-Vision-Application-Programming-Cookbook-Third-Edition-master/Chapter01/CMakeFiles/logo.dir
+/home/djw/study/C++/opencv/ov_3rd/OpenCV3-Computer-Vision-Application-Programming-Cookbook-Third-Edition-master/Chapter01/CMakeFiles/loadDisplaySave.dir

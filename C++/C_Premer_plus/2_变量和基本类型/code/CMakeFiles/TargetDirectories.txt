@@ -1,0 +1,3 @@
+/home/djw/study/C++/C_Premer_plus/2_变量和基本类型/code/CMakeFiles/rebuild_cache.dir
+/home/djw/study/C++/C_Premer_plus/2_变量和基本类型/code/CMakeFiles/edit_cache.dir
+/home/djw/study/C++/C_Premer_plus/2_变量和基本类型/code/CMakeFiles/sale_data.dir

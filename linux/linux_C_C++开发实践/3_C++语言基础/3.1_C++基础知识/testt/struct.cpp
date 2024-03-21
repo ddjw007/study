@@ -1,0 +1,35 @@
+#include <iostream>
+#include <stdlib.h>
+#include <string.h>
+
+using namespace std;
+
+struct movies_t
+{
+    char title[50];
+    int year;
+}mine,yours;
+
+void printmovie(movies_t movie);
+
+int main()
+{
+    char buffer[50];
+    strcpy(mine.title,"2001 A Space Odyssey");
+    mine.year = 1968;
+    cout << "Enter title:";
+    cin.getline(yours.title,50);
+    cout << "Enter year:";
+    cin.getline(buffer,50);
+    yours.year = atoi(buffer);
+    cout << "My favorite movie is:" << endl;
+    printmovie(mine);
+    cout << "And yours:" << endl;
+    printmovie(yours);
+    return 0;
+}
+
+void printmovie(movies_t movie){
+    cout << movie.title;
+    cout <<"(" << movie.year << ")" << endl;
+}

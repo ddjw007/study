@@ -1,0 +1,3 @@
+/home/djw/study/C++/opencv/ov_3rd/README/testt/CMakeFiles/rebuild_cache.dir
+/home/djw/study/C++/opencv/ov_3rd/README/testt/CMakeFiles/edit_cache.dir
+/home/djw/study/C++/opencv/ov_3rd/README/testt/CMakeFiles/main.dir

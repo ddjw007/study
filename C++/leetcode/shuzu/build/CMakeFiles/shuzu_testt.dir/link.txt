@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shuzu_testt.dir/11.cpp.o  -o shuzu_testt 
